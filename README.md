@@ -1,8 +1,10 @@
 # World Cup 2026 Prediction
 
 Todo:
+Auto fetch/update match -- but thay will wait until world cup near and we have some real/good api
 Chinese Mode!
 Allow start seperate session with real buy ins
+
 
 
 React/Vite app for a private World Cup 2026 prediction game with Supabase auth, per-user match guesses, tournament futures, group ranking, bracket prediction, and leaderboard scoring rules.
