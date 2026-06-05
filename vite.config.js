@@ -1,0 +1,11 @@
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
+
+export default defineConfig({
+  plugins: [react()],
+  base: '/worldcup-guess/',
+  build: {
+    outDir: '../worldcup-guess',
+    emptyOutDir: true,
+  },
+});
