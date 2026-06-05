@@ -1,5 +1,10 @@
 # World Cup 2026 Prediction
 
+Todo:
+Chinese Mode!
+Allow start seperate session with real buy ins
+
+
 React/Vite app for a private World Cup 2026 prediction game with Supabase auth, per-user match guesses, tournament futures, group ranking, bracket prediction, and leaderboard scoring rules.
 
 ## Local Setup
